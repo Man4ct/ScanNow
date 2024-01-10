@@ -1,0 +1,29 @@
+"welcome.scan" = "Scan Sekarang!";
+"welcome.settings" = "Pengaturan";
+
+"settings.title" = "Pengaturan";
+
+"settings.file.title" = "Dokumen";
+"settings.file.filename" = "Nama dokumen";
+"settings.file.suffix" = "Format penamaan dokumen";
+"settings.file.format" = "Format";
+"settings.file.defaultFilename" = "Pindai";
+"settings.file.example" = "Contoh";
+
+"settings.file.suffixCase.none" = "Tidak ada";
+"settings.file.suffixCase.counter" = "Penghitung";
+"settings.file.suffixCase.dateAndTime" = "Tanggal dan waktu";
+
+"settings.about.title" = "Tentang";
+"settings.about.version" = "Versi";
+"settings.about.email" = "Hubungi kami";
+
+"settings.about.emailCompose.subject" = "Saran untuk Scan Only";
+"settings.about.emailCompose.appAndDeviceInfo" = "\n\n-------Ap & Device info--------\n";
+"settings.about.emailCompose.system" = "- sistem: %@, %@\n";
+"settings.about.emailCompose.app" = "- app: %@, %@\n";
+"settings.about.emailCompose.end" = "-------Selesai-------";
+
+"scanner.title" = "Pindai";
+
+"scanner.share.pageSuffix" = "_halaman_%d";

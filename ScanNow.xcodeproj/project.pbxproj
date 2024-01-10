@@ -72,6 +72,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5895D3EE2B4D8214000FCD42 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		5895D3EF2B4D8214000FCD42 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/Localizable.strings; sourceTree = "<group>"; };
+		5895D3F02B4D8214000FCD42 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D30FAA3126CB079700B8BF20 /* ScanNow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScanNow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D30FAA3426CB079700B8BF20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D30FAA3626CB079700B8BF20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -472,6 +475,7 @@
 				Base,
 				pl,
 				fr,
+				id,
 			);
 			mainGroup = D30FAA2826CB079700B8BF20;
 			packageReferences = (
@@ -606,6 +610,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D30FAA4026CB079900B8BF20 /* Base */,
+				5895D3EE2B4D8214000FCD42 /* id */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -616,6 +621,7 @@
 				D34DE2432976081F0048648E /* en */,
 				D34DE245297608230048648E /* pl */,
 				D34B84342B42BBFA004361E2 /* fr */,
+				5895D3F02B4D8214000FCD42 /* id */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -626,6 +632,7 @@
 				D35C788A2964EB0900C39A60 /* en */,
 				D35C788B2964EB0900C39A60 /* pl */,
 				D34B84332B42BBEF004361E2 /* fr */,
+				5895D3EF2B4D8214000FCD42 /* id */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
